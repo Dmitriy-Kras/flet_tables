@@ -1,4 +1,4 @@
-# A flet-app Flet app
+# A flet_tables Flet app
 
 An example of a minimal Flet app.
 
